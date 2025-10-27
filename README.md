@@ -1,8 +1,6 @@
-# Hi there, I'm LebahLapar 👋
+<div align="center"> <h1>  Hi there, I'm LebahLapar 👋 </h1> </div>
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
   
   **IoT Engineer | Network Specialist | DevOps Enthusiast**
   
@@ -18,7 +16,7 @@
 - 🌱 Learning **Kubernetes, Advanced Networking, Edge Computing**
 - 👯 Looking to collaborate on **IoT Projects & Infrastructure Automation**
 - 💬 Ask me about **IoT, Networking, DevOps, CI/CD, Infrastructure as Code**
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **akbarriffani19@gmail.com**
 - ⚡ Fun fact: **I automate everything, even my morning coffee! ☕**
 
 ---
@@ -38,8 +36,6 @@
 <div align="center">
   
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
 
