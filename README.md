@@ -1,4 +1,4 @@
-.# Hi there, I'm LebahLapar 👋
+# Hi there, I'm LebahLapar 👋
 
 <div align="center">
   
