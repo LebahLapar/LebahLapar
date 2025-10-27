@@ -17,7 +17,7 @@
 - 👯 Looking to collaborate on **IoT Projects & Infrastructure Automation**
 - 💬 Ask me about **IoT, Networking, DevOps, CI/CD, Infrastructure as Code**
 - 📫 Reach me: **akbarriffani19@gmail.com**
-- ⚡ Fun fact: **I automate everything, even my morning coffee! ☕**
+- ⚡ Fun fact: **I am lazy people, that why i automate everything**
 
 ---
 
