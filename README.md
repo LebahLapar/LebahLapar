@@ -29,12 +29,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
